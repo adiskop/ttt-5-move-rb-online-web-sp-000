@@ -12,4 +12,3 @@ converted_input= user_input.to_i
 converted_input=gets.strip
 board[converted_input]
 end
-
