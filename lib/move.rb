@@ -10,6 +10,6 @@ end
 def input_to_index(user_input)
 converted_input= user_input.to_i
 converted_input=gets.strip
-
-end
 board[converted_input]
+end
+
