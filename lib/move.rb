@@ -12,6 +12,6 @@ user_input.to_i-1
 
 end
 
-def move(board,position,char=X)
+def move(board,position,char="X")
 
 end
